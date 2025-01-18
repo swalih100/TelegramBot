@@ -169,7 +169,7 @@ Name - {}
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</blockquote></b>""" 
 
     RESTART_TXT = """
-    Kuttu Bot 2 ✅
+    GOAT BOT ✅
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰Tɪᴍᴇ : <code>{}</code>
@@ -221,5 +221,5 @@ Name - {}
     
     
     LOGO = """
-✅✅✅ Goutham Josh ✅✅✅
+✅✅✅ Swalih ✅✅✅
 Recoded By Above Person 💞"""
